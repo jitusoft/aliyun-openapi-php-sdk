@@ -1,7 +1,7 @@
 {
   "name": "jitusoft/aliyun-openapi-php-sdk",
   "description": "Alibaba Cloud SDK for PHP",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "Apache-2.0",
   "authors": [
     {
