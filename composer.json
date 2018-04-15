@@ -16,7 +16,9 @@
       "aliyun-php-sdk-core/Autoloader/"
     ],
     "files":[
-      "aliyun-php-sdk-core/Regions/EndpointConfig.php"
+      "aliyun-php-sdk-core/GlobalConfig.php",
+      "aliyun-php-sdk-core/Regions/EndpointConfig.php",
+      "aliyun-php-sdk-core/Regions/LocationService.php"
     ],
     "psr-4": {
       "aegis\\": "aliyun-php-sdk-aegis/aegis",
