@@ -61,7 +61,7 @@
       "TeslaDam\\":"aliyun-php-sdk-tesladam/TeslaDam",
       "TeslaMaxCompute\\":"aliyun-php-sdk-teslamaxcompute/TeslaMaxCompute",
       "Ubsms\\":"aliyun-php-sdk-ubsms/Ubsms",
-      "Vod\\":"aliyun-php-sdk-vod/Vod",
+      "vod\\":"aliyun-php-sdk-vod/vod",
       "Vpc\\": "aliyun-php-sdk-vpc/Vpc"
     }
   }
